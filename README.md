@@ -36,3 +36,4 @@ netflixContentAnalysis/
 
 ### Page 1: Netflix Overview
 KPI cards for total titles, movies, TV shows, average movie duration, and average TV show duration, plus release-year trends, category split, and titles by rating.
+![Desktop 1] (Screenshots/Screenshot1.png)
