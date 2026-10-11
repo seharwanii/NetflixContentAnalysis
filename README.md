@@ -21,7 +21,12 @@ This project answers questions such as:
 ## Repository Structure
 
 netflixContentAnalysis/
-- netflix_data.csv 
+- netflix_data.csv - Dataset
+- netflix_analysis.sql - SQL queries
+- netflix_database.sql - MySQL Dump
+- Netflix_EDA.ipynb - Jupyter Notebook
+- Netflix_dashboard.pbix - Power BI Dashboard
+- Netflix_Content_Analysis_Project.pdf - Analysis Report
 
 
 ## Workflow
